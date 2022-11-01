@@ -7,4 +7,4 @@ authors = ["nicolas.reboule@epitech.eu"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-ggez = "0.8.0-rc1"
+emerald = "0.2.63"
